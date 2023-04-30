@@ -59,6 +59,6 @@
 
 <h2>📞 Contato</h2>
 
-<p align="center">
+<p>
   Se você estiver interessado em entrar em contato comigo, pode fazê-lo através do meu perfil no GitHub ou enviando um e-mail para jonasvale3@hotmail.com. Estou sempre aberto a oportunidades de trabalho interessantes e novos projetos emocionantes. Obrigado por visitar meu perfil!
 </p>
