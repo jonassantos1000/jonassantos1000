@@ -1,8 +1,7 @@
 <h1>
   Jonas Santos |  
   <img alt="Desenvolvedor back-end Java" src="https://img.shields.io/badge/Desenvolvedor%20Back--end-Java-orange">
-  <img alt="Certificado Microsoft Azure Fundamentals (AZ-900)" src="https://img.shields.io/badge/Certificado-Microsoft%20Azure%20Fundamentals%20(AZ--900)-blue">
-  <img alt="Certificado Scrum Fundamentals" src="https://img.shields.io/badge/Certificado-Scrum Fundamentals-brightgreen?logo=Scrum Fundamentals&">
+  <img alt="Certificado Microsoft Security, Compliance and Identity (SC-900)" src="https://img.shields.io/badge/Certificado-Microsoft%20Azure%20Fundamentals%20(AZ--900)-blue">
 </h1>
 
 <p>
