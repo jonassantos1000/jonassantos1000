@@ -60,5 +60,5 @@
 <h2>📞 Contato</h2>
 
 <p>
-  Se você estiver interessado em entrar em contato comigo, pode fazê-lo através do meu perfil no GitHub ou enviando uma mensagem no linkedin https://www.linkedin.com/in/jonas-santos-15a64a179/. Estou sempre aberto a oportunidades de trabalho interessantes e novos projetos emocionantes. Obrigado por visitar meu perfil!
+  Se você estiver interessado em entrar em contato comigo, pode fazê-lo através do meu perfil no GitHub ou enviando uma mensagem no linkedin https://www.linkedin.com/in/jonassantos1000/. Estou sempre aberto a oportunidades de trabalho interessantes e novos projetos emocionantes. Obrigado por visitar meu perfil!
 </p>
