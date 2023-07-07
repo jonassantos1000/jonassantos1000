@@ -1,7 +1,8 @@
 <h1>
   Jonas Santos |  
   <img alt="Desenvolvedor back-end Java" src="https://img.shields.io/badge/Desenvolvedor%20Back--end-Java-orange">
-  <img alt="Certificado Microsoft Security, Compliance and Identity (SC-900)" src="https://img.shields.io/badge/Certificado-Microsoft%20Security, Compliance and Identity%20(SC--900)-blue">
+  <img alt="Google Cloud Database Engineer" src="https://img.shields.io/badge/Certificado-Google Cloud Database Engineer-yellow">
+  <img alt="Certificado Microsoft Security, Compliance and Identity (SC-900)" src="https://img.shields.io/badge/Certificado-Microsoft%20Security%20(SC--900)-blue">
 </h1>
 
 <p>
