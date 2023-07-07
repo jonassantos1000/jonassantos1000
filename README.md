@@ -38,6 +38,7 @@
     <img alt="Azure Cosmos DB" src="https://img.shields.io/badge/-Azure%20Cosmos%20DB-002050?logo=microsoft%20azure&logoColor=white&labelColor=002050">
   </li>
   <li><strong>Certificações:</strong>
+    <img alt="Google Cloud Database Engineer" src="https://img.shields.io/badge/-Google Cloud Database Engineer-yellow">
     <img alt="Certificação Microsoft Azure SC-900" src="https://img.shields.io/badge/-Microsoft%20Azure%20SC--900-blue">
     <img alt="Certificação Scrum Fundamentals" src="https://img.shields.io/badge/-Scrum%20Fundamentals-brightgreen">
     <img alt="Certificação Scrum Fundamentals" src="https://img.shields.io/badge/Scrum Foundation Professional Certificate - SFPC-brightgreen">
